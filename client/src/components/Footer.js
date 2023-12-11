@@ -1,7 +1,7 @@
 import React from "react";
 
 function Footer() {
-  return <div className="footer">Copyright © 2023</div>;
+  return <div className="footer">Footer</div>;
 }
 
 export default Footer;
